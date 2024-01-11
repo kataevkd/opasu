@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RESTfull.API",
+    "\\RESTfull.API\\Controllers",
+    "\\RESTfull.Domain",
+    "\\RESTfull.Domain\\Model",
+    "\\RESTfull.Infrastructure",
+    "\\RESTfull.Infrastructure\\Data",
+    "\\RESTfull.Infrastructure\\Migrations",
+    "\\RESTfull.Infrastructure\\Repository"
+  ],
+  "SelectedNode": "\\RESTfull.Infrastructure\\Repository\\AuthorRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
