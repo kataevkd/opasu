@@ -9,3 +9,15 @@ C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Dom
 C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Domain\obj\Debug\net8.0\refint\RESTfull.Domain.dll
 C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.pdb
 C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Domain\obj\Debug\net8.0\ref\RESTfull.Domain.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\bin\Debug\net8.0\RESTfull.Domain.deps.json
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\bin\Debug\net8.0\RESTfull.Domain.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\bin\Debug\net8.0\RESTfull.Domain.pdb
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.AssemblyInfoInputs.cache
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.AssemblyInfo.cs
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.sourcelink.json
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\refint\RESTfull.Domain.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\RESTfull.Domain.pdb
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Domain\obj\Debug\net8.0\ref\RESTfull.Domain.dll

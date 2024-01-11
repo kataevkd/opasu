@@ -15,3 +15,21 @@ C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Inf
 C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.pdb
 C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.genruntimeconfig.cache
 C:\Users\wpns0\OneDrive\Рабочий стол\ОПАСУ\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\ref\RESTfull.Infrastructure.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\bin\Debug\net8.0\RESTfull.Infrastructure.deps.json
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\bin\Debug\net8.0\RESTfull.Infrastructure.runtimeconfig.json
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\bin\Debug\net8.0\RESTfull.Infrastructure.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\bin\Debug\net8.0\RESTfull.Infrastructure.pdb
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\bin\Debug\net8.0\RESTfull.Domain.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\bin\Debug\net8.0\RESTfull.Domain.pdb
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.AssemblyInfo.cs
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.sourcelink.json
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.csproj.CopyComplete
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\refint\RESTfull.Infrastructure.dll
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.pdb
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\RESTfull.Infrastructure.genruntimeconfig.cache
+C:\Users\kataevkd\Documents\RESTfull\RESTfull.Infrastructure\obj\Debug\net8.0\ref\RESTfull.Infrastructure.dll
