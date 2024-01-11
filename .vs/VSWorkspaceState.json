@@ -10,6 +10,6 @@
     "\\RESTfull.Infrastructure\\Migrations",
     "\\RESTfull.Infrastructure\\Repository"
   ],
-  "SelectedNode": "\\RESTfull.Infrastructure\\Repository\\AuthorRepository.cs",
+  "SelectedNode": "\\RESTfull.API\\Controllers\\AuthorController.cs",
   "PreviewInSolutionExplorer": false
 }
